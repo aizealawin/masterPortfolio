@@ -99,20 +99,36 @@
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
         }
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkxODIxMjk3NTQ=",
-      "name": "Pong Boiz",
+      "name": "Tic Tac Toe",
       "createdAt": "10-02-2022T17:25:51Z",
-      "url": "https://github.com/aizealawin/Pong---An-Attempt",
-      "description": "My first attempt at making a virtual pong game. One of my very first JS projects.",
+      "url": "https://github.com/aizealawin/tic-tac-toe",
+      "description": "Very first HTML + JS challenge. Created and styled a tic tac toe game.",
       "isFork": false,
       "languages": [
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
         }
       ]
     }
