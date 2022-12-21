@@ -1,7 +1,6 @@
 {
   "private": true,
   "name": "https://aizealawin.github.io",
-  "homepage": "https://aizealawin.github.io",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
