@@ -31,7 +31,7 @@ const greeting = {
 };
 
 const socialMediaLinks = [
-  // github: "https://github.com/aizealawin",
+  // github: "https://github.com/aizealawin   ",
   // linkedin: "https://www.linkedin.com/in/ktmudalige/",
   // gmail: "ktmudalige@gmail.com",
   // gitlab: "https://gitlab.com/ashutoshhathidara98",
