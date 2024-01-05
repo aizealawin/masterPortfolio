@@ -2,6 +2,32 @@
   "data": [
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Bark Animal Rescue",
+      "createdAt": "12-08-2023T16:26:54Z",
+      "url": "https://github.com/aizealawin/Crystal-Wiki-Frontend",
+      "description": "A wiki format styled website dedicated to a custom built world. I've designed it with the idea of it being highly customizable. Manually integrated authentication with JWT. WIP",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React.js",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "MongoDB",
+          "iconifyClass": "logos-mongodb"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Netlify",
+          "iconifyClass": "logos-netlify-icon"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       "name": "Crystal Wiki",
       "createdAt": "12-07-2022T16:26:54Z",
       "url": "https://github.com/aizealawin/Crystal-Wiki-Frontend",

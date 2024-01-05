@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://docs.google.com/document/d/1bTVsEuUaccmmnmJTBzmsTMPxGWyk5YdaseRwKiqPcl0/edit?usp=sharing",
+    "https://docs.google.com/document/d/1XHCgou_LYEFYnuMZleZDyHTZ1EktIWMC5KFzarE4c6Y/edit?usp=sharing",
   portfolio_repository: "https://github.com/aizealawin/masterPortfolio",
   githubProfile: "https://github.com/aizealawin",
 };
@@ -223,13 +223,6 @@ const skills = {
         //     color: "#4285F4",
         //   },
         // },
-        {
-          skillName: "AWS",
-          fontAwesomeClassname: "simple-icons:amazonaws",
-          style: {
-            color: "#FF9900",
-          },
-        },
         // {
         //   skillName: "Azure",
         //   fontAwesomeClassname: "simple-icons:microsoftazure",
